@@ -1,4 +1,4 @@
-# 📱 ContactApp – Simple Contact Manager
+# 📱 InTouch – Simple Contact Manager
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
@@ -8,7 +8,7 @@
 
 ## 🚀 Overview
 
-**ContactApp** is a simple **Android application built with Kotlin** that allows users to log in with a predefined account and manage a personal contact list.  
+**InTouch** is a simple **Android application built with Kotlin** that allows users to log in with a predefined account and manage a personal contact list.  
 After logging in, users can view existing contacts and add new ones through an intuitive interface.
 
 This project was developed for **academic purposes** as part of a university assignment.
